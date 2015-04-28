@@ -1,3 +1,3 @@
 #/bin/bash
 
-echo "hello" > index.php@
+echo "hello" > index.php
